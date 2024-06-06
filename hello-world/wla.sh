@@ -14,7 +14,6 @@
 # run the script like this: `./wla.sh program`
 # If the permission denied error happened, just use: `chmod +x wla.sh`
 # ==========================================================================
-#!/bin/sh
 
 echo '[objects]' > temp
 echo $1.obj >> temp
