@@ -54,6 +54,8 @@ chmod +x wla.sh
 
 * [Setting Up Background Color]('https://github.com/maganharenan/SNES/tree/main/background-color')
 * [Hello World Example]('https://github.com/maganharenan/SNES/tree/main/hello-world')
+* [Bitmap Example]('https://github.com/maganharenan/SNES/tree/main/bitmap')
+* [Moving Bitmap Example]('https://github.com/maganharenan/SNES/tree/main/moving-bitmap')
 * (Add more topics as you create and upload new content)
 
 #### Contributing
