@@ -15,7 +15,7 @@ This repository serves as a learning hub for SNES assembly development. If you'r
 
 #### Generating the ROM file
 To generate the rom file you will need to install an assembler.
-I am currently using the assembler [WLA-DX]('https://github.com/vhelin/wla-dx'). I work on a macbook so I install it using Homebrew
+I am currently using the assembler [WLA-DX](https://github.com/vhelin/wla-dx). I work on a macbook so I install it using Homebrew
 
 ``` bash
 brew install wla-dx
@@ -51,18 +51,33 @@ chmod +x wla.sh
 ```
 
 #### Running the ROMs
-I personaly recommend using the [bsnes]('https://bsnes.org') to run the rom files.
-I don't linke to use [OpenEmu]('https://openemu.org') because I always have some problem related to the keyboard.
+I personaly recommend using the [bsnes](https://bsnes.org) to run the rom files.
+I don't linke to use [OpenEmu](https://openemu.org) because I always have some problem related to the keyboard.
 
 #### Contents
 
-* [Setting Up Background Color]('https://github.com/maganharenan/SNES/tree/main/background-color')
-* [Hello World Example]('https://github.com/maganharenan/SNES/tree/main/hello-world')
-* [Bitmap Example]('https://github.com/maganharenan/SNES/tree/main/bitmap')
-* [Moving Bitmap Example]('https://github.com/maganharenan/SNES/tree/main/moving-bitmap')
+* [Setting Up Background Color](https://github.com/maganharenan/SNES/tree/main/background-color)
+* [Hello World Example](https://github.com/maganharenan/SNES/tree/main/hello-world)
+* [Bitmap Example](https://github.com/maganharenan/SNES/tree/main/bitmap)
+* [Moving Bitmap Example](https://github.com/maganharenan/SNES/tree/main/moving-bitmap)
 * (Add more topics as you create and upload new content)
 
 #### Contributing
 If you'd like to contribute to this repository by adding new projects, improving existing ones, or fixing issues, feel free to submit a pull request. Your contributions are greatly appreciated!
+
+#### Recommended Resources
+
+##### Websites
+* [SFC Development Wiki](https://wiki.superfamicom.org) - A wonderful wiki with a lot of resources about programming for SNES. By the way, the very first program that I wrote using assembly I followed the Bazz's tutorials.
+* [Super NES Programming](https://en.wikibooks.org/wiki/Super_NES_Programming) - Another cool site to learn how to program for SNES. There are some tutorials, another cool resources and some techniques there.
+* [SNES Assembly Adventure](https://georgjz.github.io/snesaa01/) - This one id new for me, but I really liked it. You should check it out.
+
+##### Youtube Channels
+* [ChibiAkumas](https://www.youtube.com/@ChibiAkumas) - Great channel! I followed his tutorials to make the complex examples like the hello-world and the bitmap related stuff.
+* [Manual do Código](https://www.youtube.com/watch?v=WoOVbPnpyjk&list=PLLFRf_pkM7b6Vi0ehPPovl1gQ5ubHTy5P) - If you speak portuguese you need to know this channel. Great content, very well explained.
+
+##### Books
+* [Learn Multiplatform Assembly Programming with ChibiAkumas](https://www.amazon.com/Learn-Multiplatform-Assembly-Programming-ChibiAkumas/dp/B0D2TV15LP/ref=sr_1_2?crid=23K2IU2TO7BLZ&dib=eyJ2IjoiMSJ9.zKXJ5odQirG7uRlQkwgZ1oflC7_iPdwY_uyAssG_x8kdyte-qEmS69vGU1wQRr0E.npqlDURFeXTXYwi_9cTywRJ-GrKr_eXIYV1_wyw6nfw&dib_tag=se&keywords=chibiakumas&qid=1717768793&sprefix=chibiakum%2Caps%2C261&sr=8-2) - Great book. I bought the volume 2, but he already release the volume 3.
+
 
 [Platform]: https://img.shields.io/badge/platform%20-%20snes%20-%20lightblue
