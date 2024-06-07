@@ -50,6 +50,10 @@ Another important thing is that you will probably face an permisson error when t
 chmod +x wla.sh
 ```
 
+#### Running the ROMs
+I personaly recommend using the [bsnes]('https://bsnes.org') to run the rom files.
+I don't linke to use [OpenEmu]('https://openemu.org') because I always have some problem related to the keyboard.
+
 #### Contents
 
 * [Setting Up Background Color]('https://github.com/maganharenan/SNES/tree/main/background-color')
