@@ -79,5 +79,8 @@ If you'd like to contribute to this repository by adding new projects, improving
 ##### Books
 * [Learn Multiplatform Assembly Programming with ChibiAkumas](https://www.amazon.com/Learn-Multiplatform-Assembly-Programming-ChibiAkumas/dp/B0D2TV15LP/ref=sr_1_2?crid=23K2IU2TO7BLZ&dib=eyJ2IjoiMSJ9.zKXJ5odQirG7uRlQkwgZ1oflC7_iPdwY_uyAssG_x8kdyte-qEmS69vGU1wQRr0E.npqlDURFeXTXYwi_9cTywRJ-GrKr_eXIYV1_wyw6nfw&dib_tag=se&keywords=chibiakumas&qid=1717768793&sprefix=chibiakum%2Caps%2C261&sr=8-2) - Great book. I bought the volume 2, but he already release the volume 3.
 
+##### Libs, SDKs, etc
+* [PVSnesLib](https://github.com/alekmaul/pvsneslib) - Great lib! I used it a lot in some other stuff that I wrote in C.
+
 
 [Platform]: https://img.shields.io/badge/platform%20-%20snes%20-%20lightblue
