@@ -56,10 +56,11 @@ I don't linke to use [OpenEmu](https://openemu.org) because I always have some p
 
 #### Contents
 
-* [Setting Up Background Color](https://github.com/maganharenan/SNES/tree/main/background-color)
-* [Hello World Example](https://github.com/maganharenan/SNES/tree/main/hello-world)
-* [Bitmap Example](https://github.com/maganharenan/SNES/tree/main/bitmap)
-* [Moving Bitmap Example](https://github.com/maganharenan/SNES/tree/main/moving-bitmap)
+* [Setting Up Background Color](https://github.com/maganharenan/SNES/tree/main/001-background-color)
+* [Hello World Example](https://github.com/maganharenan/SNES/tree/main/002-hello-world)
+* [Bitmap Example](https://github.com/maganharenan/SNES/tree/main/003-bitmap)
+* [Moving Bitmap Example](https://github.com/maganharenan/SNES/tree/main/004-moving-bitmap)
+* [Compiling with cc65](https://github.com/maganharenan/SNES/tree/main/005-compiling-with-cc65)
 * (Add more topics as you create and upload new content)
 
 #### Contributing
