@@ -55,8 +55,8 @@ OAMMIRROR_SIZE  = $0220 ; OAMRAM can hold data for 128 sprites, 4 bytes each
 
 ;----- Includes ----------------------------------------------------------------
 .segment "SPRITEDATA"
-SpriteData: .incbin "soldier.bin"
-ColorData:  .incbin "soldier.pal"
+SpriteData: .incbin "sprite.bin"
+ColorData:  .incbin "sprite.pal"
 ;-------------------------------------------------------------------------------
 
 .segment "CODE"
