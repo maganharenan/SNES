@@ -1,0 +1,1 @@
+ld65 -C /Users/renanmaganha/Study/Programming/snes/010-cmake/snes_cradle/memmap.cfg           CMakeFiles/CMAKEDemo.dir/src/main.s.o           -o CMAKEDemo.smc
