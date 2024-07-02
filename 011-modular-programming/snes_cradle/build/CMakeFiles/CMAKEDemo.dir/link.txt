@@ -1,0 +1,1 @@
+ld65 -C /Users/renanmaganha/Study/Programming/snes/011-modular-programming/snes_cradle/memmap.cfg           CMakeFiles/CMAKEDemo.dir/assets/assets.s.o CMakeFiles/CMAKEDemo.dir/src/main.s.o CMakeFiles/CMAKEDemo.dir/src/common/Vector.s.o CMakeFiles/CMAKEDemo.dir/src/PPU/PPU.s.o CMakeFiles/CMAKEDemo.dir/src/game/Init.s.o           -o CMAKEDemo.smc
