@@ -1,0 +1,13 @@
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/CMakeFiles/CMAKEDemo.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/assets/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/assets/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/common/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/common/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/PPU/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/PPU/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/game/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/012-snes-cradle/build/src/game/CMakeFiles/rebuild_cache.dir
