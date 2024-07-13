@@ -1,0 +1,13 @@
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/CMakeFiles/AnimatedSprite.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/assets/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/assets/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/common/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/common/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/ppu/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/ppu/CMakeFiles/rebuild_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/game/CMakeFiles/edit_cache.dir
+/Users/renanmaganha/Study/Programming/snes/sandbox/002-animating-sprite-idle/build/src/game/CMakeFiles/rebuild_cache.dir

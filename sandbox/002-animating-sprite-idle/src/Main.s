@@ -13,7 +13,15 @@
 ; ------------------------------------------------------------------------------
 
 ; ---- Includes ----------------------------------------------------------------
-
+.include        "assets.inc"
+.include        "GameConstants.inc"
+.include        "Init.inc"
+.include        "InitSNES.inc"
+.include        "Input.inc"
+.include        "Joypad.inc"
+.include        "MemoryMapWRAM.inc"
+.include        "Registers.inc"
+.include        "PPU.inc"
 ; ------------------------------------------------------------------------------
 
 .segment "CODE"
@@ -38,7 +46,7 @@
 
         jsr     InitDemo
         jmp     GameLoop
-endproc
+.endproc
 ; ------------------------------------------------------------------------------
 
 ; ---- Game Loop ---------------------------------------------------------------

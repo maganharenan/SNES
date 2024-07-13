@@ -7,7 +7,5 @@ target_compile_options(
 
 target_sources(
     ${PROJECT_NAME}
-    PRIVATE Vector.s
-    PRIVATE Joypad.s
-    PRIVATE InitSNES.s
+    PRIVATE assets.s
 )
